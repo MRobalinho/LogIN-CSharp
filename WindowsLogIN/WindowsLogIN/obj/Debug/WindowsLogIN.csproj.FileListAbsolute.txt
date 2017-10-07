@@ -1,0 +1,10 @@
+C:\Users\manuel.robalinho\Google Drive\Pessoal\UPT_Portucalense\DS_Desenvolvimento Software\Trabalho_C Sharp\Sistema de LogIn\WindowsLogIN\WindowsLogIN\bin\Debug\WindowsLogIN.exe.config
+C:\Users\manuel.robalinho\Google Drive\Pessoal\UPT_Portucalense\DS_Desenvolvimento Software\Trabalho_C Sharp\Sistema de LogIn\WindowsLogIN\WindowsLogIN\bin\Debug\WindowsLogIN.exe
+C:\Users\manuel.robalinho\Google Drive\Pessoal\UPT_Portucalense\DS_Desenvolvimento Software\Trabalho_C Sharp\Sistema de LogIn\WindowsLogIN\WindowsLogIN\bin\Debug\WindowsLogIN.pdb
+C:\Users\manuel.robalinho\Google Drive\Pessoal\UPT_Portucalense\DS_Desenvolvimento Software\Trabalho_C Sharp\Sistema de LogIn\WindowsLogIN\WindowsLogIN\obj\Debug\WindowsLogIN.csprojResolveAssemblyReference.cache
+C:\Users\manuel.robalinho\Google Drive\Pessoal\UPT_Portucalense\DS_Desenvolvimento Software\Trabalho_C Sharp\Sistema de LogIn\WindowsLogIN\WindowsLogIN\obj\Debug\WindowsLogIN.Form1.resources
+C:\Users\manuel.robalinho\Google Drive\Pessoal\UPT_Portucalense\DS_Desenvolvimento Software\Trabalho_C Sharp\Sistema de LogIn\WindowsLogIN\WindowsLogIN\obj\Debug\WindowsLogIN.Main.resources
+C:\Users\manuel.robalinho\Google Drive\Pessoal\UPT_Portucalense\DS_Desenvolvimento Software\Trabalho_C Sharp\Sistema de LogIn\WindowsLogIN\WindowsLogIN\obj\Debug\WindowsLogIN.Properties.Resources.resources
+C:\Users\manuel.robalinho\Google Drive\Pessoal\UPT_Portucalense\DS_Desenvolvimento Software\Trabalho_C Sharp\Sistema de LogIn\WindowsLogIN\WindowsLogIN\obj\Debug\WindowsLogIN.csproj.GenerateResource.Cache
+C:\Users\manuel.robalinho\Google Drive\Pessoal\UPT_Portucalense\DS_Desenvolvimento Software\Trabalho_C Sharp\Sistema de LogIn\WindowsLogIN\WindowsLogIN\obj\Debug\WindowsLogIN.exe
+C:\Users\manuel.robalinho\Google Drive\Pessoal\UPT_Portucalense\DS_Desenvolvimento Software\Trabalho_C Sharp\Sistema de LogIn\WindowsLogIN\WindowsLogIN\obj\Debug\WindowsLogIN.pdb
